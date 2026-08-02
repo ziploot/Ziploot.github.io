@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://ziploot.vercel.app/sitemap.xml</loc>
+    <loc>https://ziploot.vercel.app/sitemap.xml?update=true</loc>
+    <lastmod>2026-08-02</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ziploot.vercel.app/sitemap.xml?v=1</loc>
     <lastmod>2026-08-02</lastmod>
   </sitemap>
 </sitemapindex>
